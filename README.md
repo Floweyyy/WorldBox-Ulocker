@@ -3,7 +3,7 @@
 Ferramenta visual desenvolvida em Python (Tkinter) para gerenciar, desbloquear e sincronizar conquistas e traços do jogo **WorldBox - God Simulator**.
 
 ## Funcionalidades
-- **Editor Visual:** Interface moderna para marcar/desmarcar conquistas.
+- **Editor Visual:** Interface para marcar/desmarcar conquistas.
 - **Detecção Automática:** Localiza automaticamente a pasta de saves e configurações do WorldBox no Windows.
 - **Backup Automático:** Cria cópias de segurança automáticas antes de qualquer modificação.
 - **Suporte a Conquistas Especiais:** Inclui suporte e scripts para conquistas que exigem modificação direta do save (ex: *Not On My Watch*).
